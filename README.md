@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Sadman Sirajee
 #### Future Data Scientist | Passionate about Machine Learning, Analytics & AI
-![Future Data Scientist | Passionate about Machine Learning, Analytics & AI](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 Hi, I'm Sadman Sirajee, a BSc Data Science student at UIU.  
 I’m passionate about Machine Learning, Data Analytics, and building real-world projects.  
 Currently improving my Python, SQL, and Data Visualization skills.
@@ -28,5 +26,6 @@ Skills: Python / Pandas/ NumPy/ Matplotlib/ Seaborn/ Power BI/Scikit-learn/ Regr
 ![GitHub metrics](https://metrics.lecoq.io/Sadman-datascience)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sadman-datascience)  
+
 
 
